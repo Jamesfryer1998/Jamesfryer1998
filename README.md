@@ -8,10 +8,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently building **algorithmic trading systems** and **exchange infrastructure in C++**
-- 🧠 Exploring **machine learning** applications in finance and medical imaging
-- 💡 Interested in **quantitative finance**, **low-latency systems**, and **AI/ML**
-- 📫 Open to collaboration on fintech, trading systems, or ML projects
+- Currently building **algorithmic trading systems** and **exchange infrastructure in C++**
+- Exploring **machine learning** applications in finance and medical imaging
+- Interested in **quantitative finance**, **low-latency systems**, and **AI/ML**
+- Open to collaboration on fintech, trading systems, or ML projects
 
 ---
 
@@ -44,7 +44,7 @@
 
 # 🚀 Featured Projects
 
-### 📈 [algo_trading](https://github.com/Jamesfryer1998/algo_trading) — Python
+### [algo_trading](https://github.com/Jamesfryer1998/algo_trading) — Python
 A full-featured **algorithmic trading platform** built in Python. Provides a framework for implementing, backtesting, and running various trading strategies in live and simulated market conditions. Designed with modularity in mind so strategies can be swapped, tested, and compared easily.
 
 **Key highlights:**
@@ -55,7 +55,7 @@ A full-featured **algorithmic trading platform** built in Python. Provides a fra
 
 ---
 
-### 💱 [C-Crypto-Platform](https://github.com/Jamesfryer1998/C-Crypto-Platform) — C++
+### [C-Crypto-Platform](https://github.com/Jamesfryer1998/C-Crypto-Platform) — C++
 A **text-based cryptocurrency trading simulator** built entirely in C++. Users can interactively buy and sell simulated cryptocurrencies through a terminal interface, demonstrating core C++ concepts including OOP, data structures, and memory management in a finance context.
 
 **Key highlights:**
@@ -66,7 +66,7 @@ A **text-based cryptocurrency trading simulator** built entirely in C++. Users c
 
 ---
 
-### 🧠 [BrainTumourDetection](https://github.com/Jamesfryer1998/BrainTumourDetection) — Python / Jupyter
+### [BrainTumourDetection](https://github.com/Jamesfryer1998/BrainTumourDetection) — Python / Jupyter
 A **deep learning project** that uses Convolutional Neural Networks (CNNs) to detect brain tumours from MRI scans. Trained on a labelled dataset of magnetic resonance images, the model classifies whether a tumour is present — demonstrating applied ML in a medical imaging context.
 
 **Key highlights:**
@@ -88,7 +88,7 @@ A **low-latency order book and exchange engine** built in C++. This project simu
 
 ---
 
-### 🔄 [Arbitrage](https://github.com/Jamesfryer1998/Arbitrage) — Python
+### [Arbitrage](https://github.com/Jamesfryer1998/Arbitrage) — Python
 A **crypto arbitrage detection and execution tool** written in Python. Monitors price discrepancies across exchanges or trading pairs and identifies opportunities for risk-free profit through simultaneous buy/sell execution.
 
 **Key highlights:**
@@ -99,7 +99,7 @@ A **crypto arbitrage detection and execution tool** written in Python. Monitors 
 
 ---
 
-### 🤖 [C-AlgoTrader](https://github.com/Jamesfryer1998/C-AlgoTrader) — C++
+### [C-AlgoTrader](https://github.com/Jamesfryer1998/C-AlgoTrader) — C++
 A **high-performance algorithmic trading engine** written in C++. Focuses on the execution layer of algorithmic trading — order management, signal processing, and trade lifecycle — built for speed and reliability at the systems level.
 
 **Key highlights:**
