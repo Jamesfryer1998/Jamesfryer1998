@@ -11,7 +11,6 @@
 - 🔭 Currently building **algorithmic trading systems** and **exchange infrastructure in C++**
 - 🧠 Exploring **machine learning** applications in finance and medical imaging
 - 💡 Interested in **quantitative finance**, **low-latency systems**, and **AI/ML**
-- 🌐 Personal site: [jamesfryer.pythonanywhere.com](https://jamesfryer.pythonanywhere.com/dashboard/)
 - 📫 Open to collaboration on fintech, trading systems, or ML projects
 
 ---
@@ -30,8 +29,6 @@
 
 # 🥧 Language Distribution
 
-Based on public repositories, my code is spread across the following languages:
-
 | Language | Usage | Primary Use Case |
 |---|---|---|
 | 🐍 Python | ~40% | Algo trading, ML, data analysis |
@@ -41,7 +38,7 @@ Based on public repositories, my code is spread across the following languages:
 | 🔵 C / C# | ~5% | Systems programming, supplementary tooling |
 | 🖥️ Bash | ~2% | Scripting & automation |
 
-> 💡 The split reflects a dual focus: **Python** for rapid prototyping and ML, **C++** for production-grade, performance-critical systems.
+> The split reflects a dual focus: **Python** for rapid prototyping and ML, **C++** for production-grade, performance-critical systems.
 
 ---
 
